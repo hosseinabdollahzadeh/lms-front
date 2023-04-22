@@ -1,0 +1,15 @@
+{
+    "name": "abiz/front",
+    "autoload": {
+        "psr-4": {
+            "Abd\\Front\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers":[
+                "\\Abd\\Front\\Providers\\FrontServiceProvider"
+            ]
+        }
+    }
+}
