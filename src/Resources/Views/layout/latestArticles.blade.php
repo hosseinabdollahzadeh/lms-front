@@ -1,14 +1,14 @@
 <article class="container blog">
     <div class="b-head">
         <h2>آخرین مقالات</h2>
-        <a href="/">مشاهده همه</a>
+        <a href="#">مشاهده همه</a>
     </div>
     <div class="articles">
         <div class="col">
-            <a href="react.html">
+            <a href="#">
                 <div class="card-img"><img src="img/banner/reactjs.png" alt="reactjs"></div>
                 <div class="card-title"><h2>
-                        دیزاین پترن در فریم ورک لاراول
+                        مقاله یک
                     </h2></div>
                 <div class="card-body">
 
@@ -20,10 +20,10 @@
             </a>
         </div>
         <div class="col">
-            <a href="react.html">
+            <a href="#">
                 <div class="card-img"><img src="img/banner/reactjs.png" alt="reactjs"></div>
                 <div class="card-title"><h2>
-                        پالیسی در فریم ورک لاراول
+                        مقاله دو
                     </h2></div>
                 <div class="card-body">
 
@@ -35,10 +35,10 @@
             </a>
         </div>
         <div class="col">
-            <a href="react.html">
+            <a href="#">
                 <div class="card-img"><img src="img/banner/reactjs.png" alt="reactjs"></div>
                 <div class="card-title"><h2>
-                        میدلویر در فریم ورک لاراول
+                        مقاله سه
                     </h2></div>
                 <div class="card-body">
 
@@ -50,10 +50,10 @@
             </a>
         </div>
         <div class="col">
-            <a href="react.html">
+            <a href="#">
                 <div class="card-img"><img src="img/banner/reactjs.png" alt="reactjs"></div>
                 <div class="card-title"><h2>
-                        احراز هویت در فریم ورک لاراول
+                        مقاله چهار
                     </h2></div>
                 <div class="card-body">
 

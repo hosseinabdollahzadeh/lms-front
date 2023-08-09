@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0;">
 
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>آموزش برنامه‌ نویسی و طراحی وب</title>
+    <title>آموزش برنامه‌ نویسی @yield('title')</title>
     <meta name="description"
           content="وب آموز وبسایت آموزش برنامه نویسی وب و موبایل ، جاوااسکریپت ، لاراول ، react ، آموزش node js با مجرب ترین مدرسین">
     <meta name="keywords"

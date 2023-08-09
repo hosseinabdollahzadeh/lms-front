@@ -16,7 +16,8 @@
                                 </li>
                             @endif
                             <li><a href="{{$course->category->path()}}"
-                                   title="{{$course->category->title}}">{{$course->category->title}}</a></li>
+                                   title="{{$course->category->title}}">{{$course->category->title}}</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -219,7 +220,8 @@
                             </tr>
                             <tr>
                                 <th> مبلغ تخفیف</th>
-                                <td class="text-red"><span id="discountAmount" data-value="{{$course->getDiscountAmount()}}">
+                                <td class="text-red"><span id="discountAmount"
+                                                           data-value="{{$course->getDiscountAmount()}}">
                                         {{$course->getDiscountAmount()}}
                                     </span>
                                     تومان
