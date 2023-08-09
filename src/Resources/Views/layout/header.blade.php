@@ -131,7 +131,7 @@
                         <span>پروفایل کاربری من </span>
                         <div class="user-menu-account-dropdown">
                             <ul>
-                                <li><a href="{{ route('users.profile') }}">مشاهده پروفایل</a></li>
+                                <li><a href="{{ route('users.editProfile') }}">مشاهده پروفایل</a></li>
                                 <li><a href="">خرید های من</a></li>
                                 <li><a href="{{ route('home') }}">داشبورد</a></li>
                                 <li><a href="{{ route('logout') }}">خروج</a></li>
